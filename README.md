@@ -1,2 +1,2 @@
-## Maid : Simple File Organizing Program.
+## Maid-sh : Simple File Organizing Program inspired by maid
 
